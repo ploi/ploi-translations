@@ -11,3 +11,5 @@ You are free to create a pull request with a new translation, make sure you crea
 `{locale}.json`
 
 For example, if you are from germany create a `de.json` inside the `src/resources/lang` folder.
+
+A example file for the JSON files can be found at: `src/resources/lang/nl.json`.
