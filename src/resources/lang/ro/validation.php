@@ -12,7 +12,7 @@ return [
     |
     */
 
-    'accepted' => 'Câmpul :attribute trebuie să fie acceptat.',
+    'accepted' => 'Câmpul :attribute trebuie să fie bifat.',
     'active_url' => 'Câmpul :attribute nu este un URL valid.',
     'after' => 'Câmpul :attribute trebuie să fie o dată după :date.',
     'after_or_equal' => 'Câmpul :attribute trebuie să fie o dată ulterioară sau egală cu :date.',
@@ -24,11 +24,11 @@ return [
     'before_or_equal' => 'Câmpul :attribute trebuie să fie o dată înainte sau egală cu :date.',
     'between' => [
         'numeric' => 'Câmpul :attribute trebuie să fie între :min și :max.',
-        'file' => 'Câmpul :attribute trebuie să fie între :min și :max kiloocteți.',
+        'file' => 'Câmpul :attribute trebuie să fie între :min și :max kilobytes.',
         'string' => 'Câmpul :attribute trebuie să fie între :min și :max caractere.',
         'array' => 'Câmpul :attribute trebuie să aibă între :min și :max elemente.',
     ],
-    'boolean' => 'Câmpul :attribute trebuie să fie adevărat sau fals.',
+    'boolean' => 'Câmpul :attribute trebuie să fie boolean.',
     'confirmed' => 'Confirmarea :attribute nu se potrivește.',
     'date' => 'Câmpul :attribute nu este o dată validă.',
     'date_format' => 'Câmpul :attribute trebuie să fie în formatul :format.',
@@ -46,12 +46,12 @@ return [
     'in_array' => 'Câmpul :attribute nu există în :other.',
     'integer' => 'Câmpul :attribute trebuie să fie un număr întreg.',
     'ip' => 'Câmpul :attribute trebuie să fie o adresă IP validă.',
-    'ipv4' => 'The :attribute must be a valid IPv4 address.',
-    'ipv6' => 'The :attribute must be a valid IPv6 address.',
+    'ipv4' => ':attribute trebuie să fie o adresă IPv4 validă.',
+    'ipv6' => ':attribute trebuie să fie o adresă IPv6 validă.',
     'json' => 'Câmpul :attribute trebuie să fie un string JSON valid.',
     'max' => [
         'numeric' => 'Câmpul :attribute nu poate fi mai mare de :max.',
-        'file' => 'Câmpul :attribute nu poate avea mai mult de :max kiloocteți.',
+        'file' => 'Câmpul :attribute nu poate avea mai mult de :max kilobytes.',
         'string' => 'Câmpul :attribute nu poate avea mai mult de :max caractere.',
         'array' => 'Câmpul :attribute nu poate avea mai mult de :max elemente.',
     ],
@@ -59,7 +59,7 @@ return [
     'mimetypes' => 'Câmpul :attribute trebuie să fie un fișier de tipul: :values.',
     'min' => [
         'numeric' => 'Câmpul :attribute nu poate fi mai mic de :min.',
-        'file' => 'Câmpul :attribute trebuie să aibă cel puțin :min kiloocteți.',
+        'file' => 'Câmpul :attribute trebuie să aibă cel puțin :min kilobytes.',
         'string' => 'Câmpul :attribute trebuie să aibă cel puțin :min caractere.',
         'array' => 'Câmpul :attribute trebuie să aibă cel puțin :min elemente.',
     ],
@@ -74,18 +74,18 @@ return [
     'required_with' => 'Câmpul :attribute este necesar când există :values.',
     'required_with_all' => 'Câmpul :attribute este necesar când există :values.',
     'required_without' => 'Câmpul :attribute este necesar când nu există :values.',
-    'required_without_all' => 'Câmpul :attribute este necesar când niciunul(una) dintre :values nu există.',
+    'required_without_all' => 'Câmpul :attribute este necesar când niciunul dintre :values nu există.',
     'same' => 'Câmpul :attribute și :other trebuie să fie identice.',
     'size' => [
-        'numeric' => 'Câmpul :attribute trebuie să fie :size.',
-        'file' => 'Câmpul :attribute trebuie să aibă :size kiloocteți.',
+        'numeric' => 'Câmpul :attribute trebuie să fie exact :size.',
+        'file' => 'Câmpul :attribute trebuie să aibă :size kilobytes.',
         'string' => 'Câmpul :attribute trebuie să aibă :size caractere.',
         'array' => 'Câmpul :attribute trebuie să aibă :size elemente.',
     ],
     'string' => 'Câmpul :attribute trebuie să fie string.',
     'timezone' => 'Câmpul :attribute trebuie să fie un fus orar valid.',
-    'unique' => 'Câmpul :attribute a fost deja folosit.',
-    'uploaded' => 'Câmpul :attribute nu a reușit încărcarea.',
+    'unique' => 'Câmpul :attribute este deja folosit.',
+    'uploaded' => 'Câmpul :attribute nu a putut fi încărcat.',
     'url' => 'Câmpul :attribute nu este un URL valid.',
 
     /*
