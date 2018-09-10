@@ -12,6 +12,6 @@ return [
     |
     */
 
-    'failed' => 'Datele de identificare nu pot fi confirmate.',
-    'throttle' => 'Prea multe încercări de intrare în cont. Poți încerca din nou peste :seconds secunde.',
+    'failed' => 'Datele introduse nu sunt valide.',
+    'throttle' => 'Au fost efectuate prea multe încercări. Încearcă peste :seconds secunde.',
 ];
