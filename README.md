@@ -1,6 +1,6 @@
-# Ploi Translations 🚀
+# Ploi translations 🚀
 
-The future is now - so stop the hassle, you’re running behind. Quick and easy site deployment with Ploi. Awesome features for awesome developers. Check it out at www.ploi.io
+The future is now - so stop the hassle, you’re running behind. Quick and easy site deployment with Ploi. Awesome features for awesome developers. Check it out at https://ploi.io
 
 ## Translations
 
