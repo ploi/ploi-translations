@@ -2,6 +2,7 @@
   "Dashboard": "Dashboard",
   "Manage": "Beheer",
   "Search..": "Zoeken..",
+  "Search": "Zoeken",
   "Overview": "Overzicht",
   "Create": "Nieuw",
   "Edit": "Bewerk",
@@ -39,7 +40,7 @@
   "Security": "Beveiliging",
   "Orders": "Bestellingen",
   "Information": "Informatie",
-  "Create Server": "Server Aanmaken",
+  "Create server": "Server aanmaken",
   "SSH Keys": "SSH Sleutels",
   "Description": "Omschrijving",
   "Date": "Datum",
@@ -107,5 +108,14 @@
   "Click to search": "Klik om te zoeken",
   "Mark all as read": "Markeer alle gelezen",
   "site|sites": "website|websites",
-  "Logout": "Uitloggen"
+  "Logout": "Uitloggen",
+  "Loading": "Laden",
+  "Deploying": "Deployen",
+  "Queued for deployment": "Wachtende op deploy",
+  "Deploy now": "Deploy nu",
+  "Your deployment has failed, please check recent deploy log for errors.": "Je recente deployment is gefaald, bekijk de logs om erachter te komen wat er mis is gegaan.",
+  "Deploy script variables": "Deploy script variabelen",
+  "View": "Bekijk",
+  "Reset filters": "Herstel filters",
+  "Order by": "Sorteer op"
 }
