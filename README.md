@@ -32,3 +32,10 @@ Example contents:
 ```
 
 A example file for the JSON files can be found at: `src/resources/lang/nl.json`.
+
+## Contributors
+- sl by @morpheus7CS
+- zh-CN by @mingyoung
+- da by @peterbrinck
+- pt-BR by @rmundel
+- bg by @MrGKanev
