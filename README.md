@@ -39,3 +39,4 @@ A example file for the JSON files can be found at: `src/resources/lang/nl.json`.
 - da by @peterbrinck
 - pt-BR by @rmundel
 - bg by @MrGKanev
+- de by @LKaemmerling
