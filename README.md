@@ -40,3 +40,4 @@ A example file for the JSON files can be found at: `src/resources/lang/nl.json`.
 - pt-BR by @rmundel
 - bg by @MrGKanev
 - de by @LKaemmerling
+- ru by [Illia Sakovich](https://github.com/hivokas)
