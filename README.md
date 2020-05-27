@@ -12,6 +12,8 @@ You are free to create a pull request with a new translation:
 
 For example, if you are from germany create a `de.json` and copy over the contents from another json file to translate.
 
+We recommend to use the **nl.json** file to copy from as that is usually the one that is most up to date.
+
 The base translations are always english in the JSON files and the values inside represent your translations.
 
 1 line command to copy over your file to another translation (make sure to replace **{locale}** with your country language code:
