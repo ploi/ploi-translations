@@ -33,6 +33,10 @@ Example contents:
 
 A example file for the JSON files can be found at: `src/resources/lang/nl.json`.
 
+### New translation keys
+
+Take a look at our **changelog.md** to view recent changes, we'll always post the newly added keys in there.
+
 ## Contributors
 - sl by @morpheus7CS
 - zh-CN by @mingyoung
