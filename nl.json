@@ -77,6 +77,7 @@
   "Install repository": "Installeer applicatie",
   "Install WordPress": "Installeer WordPress",
   "Install OctoberCMS": "Installeer OctoberCMS",
+  "Install Nextcloud": "Installeer Nextcloud",
   "View latest deploy logs": "Bekijk laatste deployments",
   "There are no latest deploy log items to show.": "Er zijn geen laatste deploy logs.",
   "You can view the latest 5 deploy logs here, please note that our system rotates server logs automatically after some time.": "Je kunt hier de laatste 5 deploy logs zien, houd er rekening mee dat ons systeem de server logs automatisch verwijderd na een periode.",
@@ -120,5 +121,13 @@
   "Order by": "Sorteer op",
   "day": "dag",
   "days": "dagen",
-  "Online for": "Online voor"
+  "Online for": "Online voor",
+  "Cancel": "Annuleren",
+  "Create database": "Database aanmaken",
+  "If you do not see your repository listed here, you can always type the repository manually in the input field below here.": "Als je je repository niet kan vinden in de lijst, kun je altijd de naam handmatig typen in het tekstveld hieronder.",
+  "Select repository": "Selecteer repository",
+  "update|updates": "update|updates",
+  "pending": "wachtende",
+  "security": "beveiligings",
+  "Create a new site in your server here, we offer more options if you press Advanced settings, you can select a system user there or setup staging.": "Maak een nieuwe site in je server aan, we bieden meer instellingen aan als je op Geavanceerde instellingen drukt."
 }
