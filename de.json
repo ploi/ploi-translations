@@ -120,5 +120,13 @@
   "Order by": "Sortieren nach",
   "day": "Tag",
   "days": "Tage",
-  "Online for": "Online seit"
+  "Online for": "Online seit",
+  "Cancel": "Abbrechen",
+  "Create database": "Datenbank erstellen",
+  "If you do not see your repository listed here, you can always type the repository manually in the input field below here.": "Sollte Ihr Repository nicht angezeigt werden, tragen Sie dies bitte manuell in das Feld ein.",
+  "Select repository": "Repository auswählen",
+  "update|updates": "Update|Updates",
+  "pending": "Bitte warten",
+  "security": "Sicherheit",
+  "Create a new site in your server here, we offer more options if you press Advanced settings, you can select a system user there or setup staging.": "Erstellen Sie eine neue Website auf Ihrem Server. Sie können unter den erweiterten Einstellungen einen neuen Systembenutzer anlegen, oder die Staging-Option aktivieren."
 }
