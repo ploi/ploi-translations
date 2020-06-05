@@ -129,5 +129,17 @@
   "update|updates": "update|updates",
   "pending": "wachtende",
   "security": "beveiligings",
-  "Create a new site in your server here, we offer more options if you press Advanced settings, you can select a system user there or setup staging.": "Maak een nieuwe site in je server aan, we bieden meer instellingen aan als je op Geavanceerde instellingen drukt."
+  "Create a new site in your server here, we offer more options if you press Advanced settings, you can select a system user there or setup staging.": "Maak een nieuwe site in je server aan, we bieden meer instellingen aan als je op Geavanceerde instellingen drukt.",
+  "Statistics": "Statistieken",
+  "Records": "Regels",
+  "Timeline": "Tijdlijn",
+  "Total": "Totaal",
+  "Bandwidth": "Bandbreedte",
+  "Cached": "In de cache",
+  "Uncached": "Niet in cache",
+  "Requests": "Aanvragen",
+  "None": "Geen",
+  "Uniques per day": "Unieke per dag",
+  "Unique": "Unieke",
+  "TLS version": "TLS versie"
 }

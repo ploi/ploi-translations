@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2020-06-05
+
+- Added new translation keys (you can copy from `nl.json`)
+
+```json
+{
+  "Statistics": "Statistieken",
+  "Records": "Regels",
+  "Timeline": "Tijdlijn",
+  "Total": "Totaal",
+  "Bandwidth": "Bandbreedte",
+  "Cached": "In de cache",
+  "Uncached": "Niet in cache",
+  "Requests": "Aanvragen",
+  "None": "Geen",
+  "Uniques per day": "Unieke per dag",
+  "Unique": "Unieke",
+  "TLS version": "TLS versie"
+}
+```
+
 ## 2020-06-02
 
 - Added new translation keys (you can copy from `nl.json`)
