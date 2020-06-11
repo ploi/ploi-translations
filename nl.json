@@ -12,6 +12,7 @@
   "Profile": "Profiel",
   "News": "Nieuws",
   "User": "Gebruiker",
+  "User (optional)": "Gebruiker (optioneel)",
   "Label": "Label",
   "Close": "Sluiten",
   "Save": "Opslaan",
@@ -43,6 +44,7 @@
   "Create server": "Server aanmaken",
   "SSH Keys": "SSH Sleutels",
   "Description": "Omschrijving",
+  "Description (optional)": "Omschrijving (optioneel)",
   "Date": "Datum",
   "Recent events": "Recente gebeurtenissen",
   "Created": "Aangemaakt",
@@ -91,6 +93,7 @@
   "Title": "Titel",
   "Display options": "Weergave opties",
   "Password": "Wachtwoord",
+  "Password (optional)": "Wachtwoord (optioneel)",
   "Primary color": "Primaire kleur",
   "Secondary color": "Secundaire kleur",
   "Advanced settings": "Geavanceerde instellingen",
@@ -141,5 +144,6 @@
   "None": "Geen",
   "Uniques per day": "Unieke per dag",
   "Unique": "Unieke",
-  "TLS version": "TLS versie"
+  "TLS version": "TLS versie",
+  "Generate password": "Genereer wachtwoord"
 }
