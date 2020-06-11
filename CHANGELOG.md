@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2020-06-11
+
+- Added new translation keys (you can copy from `nl.json`)
+
+```json
+{
+  "User (optional)": "Gebruiker (optioneel)",
+  "Description (optional)": "Omschrijving (optioneel)",
+  "Password (optional)": "Wachtwoord (optioneel)",
+  "Generate password": "Genereer wachtwoord"
+}
+```
+
 ## 2020-06-05
 
 - Added new translation keys (you can copy from `nl.json`)
