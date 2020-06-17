@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2020-06-17
+
+- Added new translation keys (you can copy from below or `nl.json`)
+
+```json
+{
+  "Documentation": "Documentatie"
+}
+```
+
 ## 2020-06-11
 
 - Added new translation keys (you can copy from `nl.json`)
