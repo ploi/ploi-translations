@@ -128,5 +128,22 @@
   "update|updates": "Update|Updates",
   "pending": "Bitte warten",
   "security": "Sicherheit",
-  "Create a new site in your server here, we offer more options if you press Advanced settings, you can select a system user there or setup staging.": "Erstellen Sie eine neue Website auf Ihrem Server. Sie können unter den erweiterten Einstellungen einen neuen Systembenutzer anlegen, oder die Staging-Option aktivieren."
+  "Create a new site in your server here, we offer more options if you press Advanced settings, you can select a system user there or setup staging.": "Erstellen Sie eine neue Website auf Ihrem Server. Sie können unter den erweiterten Einstellungen einen neuen Systembenutzer anlegen, oder die Staging-Option aktivieren.",
+  "Statistics": "Statistiken",
+  "Records": "Regeln",
+  "Timeline": "Zeitleiste",
+  "Total": "Total",
+  "Bandwidth": "Bandbreite",
+  "Cached": "Im Cache",
+  "Uncached": "Nicht im Cache",
+  "Requests": "Anfragen",
+  "None": "Keine",
+  "Uniques per day": "Eindeutige pro Tag",
+  "Unique": "Eindeutig",
+  "TLS version": "TLS-Version",
+  "User (optional)": "Benutzer (optional)",
+  "Description (optional)": "Beschreibung (optional)",
+  "Password (optional)": "Passwort (optional)",
+  "Generate password": "Passwort generieren",
+  "Documentation": "Dokumentation"
 }
