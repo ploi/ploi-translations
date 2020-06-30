@@ -145,5 +145,8 @@
   "Description (optional)": "Beschreibung (optional)",
   "Password (optional)": "Passwort (optional)",
   "Generate password": "Passwort generieren",
-  "Documentation": "Dokumentation"
+  "Documentation": "Dokumentation",
+  "Use credentials from profile": "Anmeldedaten aus dem Profil verwenden",
+  "Select certificate type to install": "Wählen Sie den zu installierenden Zertifikatstyp",
+  "Force request (skip DNS verification)": "Anfrage erzwingen (DNS-Verifizierung überspringen)"
 }
