@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2020-06-30
+
+- Added new translation keys (you can copy from below or `nl.json`)
+
+```json
+{
+  "Use credentials from profile": "Gebruik inloggegevens van profiel",
+  "Select certificate type to install": "Selecteer certificaat type om te installeren",
+  "Force request (skip DNS verification)": "Forceer aanvraag (sla DNS verificatie over)"
+}
+```
+
 ## 2020-06-17
 
 - Added new translation keys (you can copy from below or `nl.json`)

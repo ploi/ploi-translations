@@ -146,5 +146,8 @@
   "Unique": "Unieke",
   "TLS version": "TLS versie",
   "Generate password": "Genereer wachtwoord",
-  "Documentation": "Documentatie"
+  "Documentation": "Documentatie",
+  "Use credentials from profile": "Gebruik inloggegevens van profiel",
+  "Select certificate type to install": "Selecteer certificaat type om te installeren",
+  "Force request (skip DNS verification)": "Forceer aanvraag (sla DNS verificatie over)"
 }
