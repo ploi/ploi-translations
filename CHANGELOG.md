@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2020-09-26
+
+- French translation, thanks to @damiennl
+
 ## 2020-06-30
 
 - Added new translation keys (you can copy from below or `nl.json`)
