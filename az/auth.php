@@ -12,6 +12,6 @@ return [
     |
     */
 
-    'failed'   => 'İstifadəçi adı və ya şifrə səhvdir',
-    'throttle' => ':seconds saniyə sonra təkrar cəhd edin',
+    'failed'   => 'İstifadəçi adı və ya şifrəniz səhvdir.',
+    'throttle' => 'Çox sayda giriş cəhdi etdiniz. Lütfən :seconds saniyə sonra təkrar cəhd edin',
 ];
