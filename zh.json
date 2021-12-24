@@ -74,7 +74,7 @@
   "Site domain": "站点域名",
   "Authentication": "授权",
   "You do not have any redirects configured yet.": "暂无重定向配置",
-  "Install repository": "安装仓库",
+  "Install repository": "从 Git 仓库拉取代码",
   "Install WordPress": "安装 WordPress",
   "Install OctoberCMS": "安装 OctoberCMS",
   "View latest deploy logs": "查看最近部署日志",
