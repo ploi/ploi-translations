@@ -12,9 +12,9 @@ return [
     |
     */
 
-    'reset'     => 'Şifrə yeniləndi',
-    'sent'      => 'Şifrə yeniləmə adresi sizə email olaraq göndərildi',
-    'throttled' => 'Please wait before retrying.',
-    'token'     => 'Bu şifrə yeniləmə kodu yanlışdır',
-    'user'      => "Bu email'ə uyğun istifadəçi tapılmadı",
+    'reset'     => 'Şifrəniz sıfırlandı!',
+    'sent'      => 'Şifrə sıfırlama bağlantınız e-poçt ilə göndərildi.',
+    'throttled' => 'Lütfən təkrar cəhd etmədən öncə gözləyin.',
+    'token'     => 'Bu şifrə sıfırlama kodu keçərsizdir.',
+    'user'      => "Bu e-poçt ünvanı ilə qeydiyyatlı bir istifadəçi tapılmadı.",
 ];
