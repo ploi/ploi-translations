@@ -81,7 +81,7 @@
     "Install OctoberCMS": "Instalar OctoberCMS",
     "Install Nextcloud": "Instalar Nextcloud",
     "View latest deploy logs": "Ver los últimos registros de implementación",
-    "There are no latest deploy log items to show.": "No hay elementos recientes de registro de despliegue más reciente.",
+    "There are no latest deploy log items to show.": "No hay elementos recientes de registro de despliegue.",
     "You can view the latest 5 deploy logs here, please note that our system rotates server logs automatically after some time.": "Aquí puede ver los últimos 5 registros de implementación, tenga en cuenta que nuestro sistema rota los registros del servidor automáticamente después de un tiempo.",
     "Send e-mail when deployment has done": "Enviar correo electrónico cuando la implementación haya finalizado",
     "Your plan is currently expired, you can extend below.": "Tu plan actual ha caducado, puedes extenderlo a continuación.",
