@@ -46,3 +46,4 @@ Take a look at our **changelog.md** to view recent changes, we'll always post th
 - de by @LKaemmerling
 - ru by [Illia Sakovich](https://github.com/hivokas)
 - sv by [@adevade](https://github.com/adevade)
+- cs by [@Kuldas](https://github.com/kuldas)
