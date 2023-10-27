@@ -44,6 +44,6 @@ Take a look at our **changelog.md** to view recent changes, we'll always post th
 - pt-BR by @rmundel
 - bg by @MrGKanev
 - de by @LKaemmerling
-- ru by [Illia Sakovich](https://github.com/hivokas)
+- ru by [Illia Sakovich](https://github.com/hivokas), [@mcandylab](https://github.com/mcandylab)
 - sv by [@adevade](https://github.com/adevade)
 - cs by [@Kuldas](https://github.com/kuldas)
